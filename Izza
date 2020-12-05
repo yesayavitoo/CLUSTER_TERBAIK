@@ -1,0 +1,83 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>CONGRATSS!!</title>
+
+  <!-- Icon -->
+  <link rel="icon" href="images/icon.ico">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Pacifico|Sue Ellen Francisco|Neucha|Bad Script|Waiting for the Sunrise" rel="stylesheet">
+
+  <!-- CSS Stylesheets -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Font Awesome -->
+  <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+
+  <!-- Bootstrap Scripts -->
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+    <!-- Press -->
+
+  <section class="colored-section" id="press">
+    <h1 class="press-logo">CONGRATULATION</h1>
+    <img class="gif-2" src="https://media.giphy.com/media/l0tyIFH7QYIqdcpKu8/giphy.gif" alt="gif-2">
+
+  </section>
+
+  <!-- Testimonials -->
+
+  <section class="colored-section" id="testimonials">
+
+    <img class="foto-maba-img" src="izza.png" alt="foto-maba-img">
+    <p class="nama-maba-p">~ Hanifatul Izza ~</p>
+
+    <div id="testimonial-carousel" class="carousel slide" data-ride="false">
+      <div class="carousel-inner">
+        <div class="carousel-item active container-fluid">
+          <h2 class="testimonial-text2">There's no way to calculate</h2>
+          <h2 class="testimonial-text2">There's no word can explain</h2>
+          <img class="gif-1" src="https://media.giphy.com/media/iesVpgu7BonjjkK7vz/giphy.gif" alt="gif-1">
+        </div>
+        <div class="carousel-item container-fluid">
+          <h2 class="testimonial-text2">Thank you for come in life</h2>
+          <h2 class="testimonial-text2">Thank you for be part of us</h2>
+          <img class="gif-1" src="https://media.giphy.com/media/Rh5u7TseFHvDSrwRIF/giphy.gif" alt="gif-1">
+        </div>
+        <div class="carousel-item container-fluid">
+          <h2 class="testimonial-text2">Menjadi insan yang bermnfaat</h2>
+          <h2 class="testimonial-text2">Menjadi pribadi yang tangguh</h2>
+          <img class="gif-1" src="https://media.giphy.com/media/Vh3KXHv6T7DN4ppVqb/giphy.gif" alt="gif-1">
+        </div>
+        <div class="carousel-item container-fluid">
+          <h2 class="testimonial-text2">Good Luck on your duty</h2>
+          <h2 class="testimonial-text2">Pecandu Seblak<i class="fa fa-heart" aria-hidden="true"></i></h2>
+          <img class="gif-1" src="https://media.giphy.com/media/JpjsKDoNSvTelNFX65/giphy.gif" alt="gif-1">
+        </div>
+      </div>
+      <a class="carousel-control-prev" href="#testimonial-carousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+      </a>
+      <a class="carousel-control-next" href="#testimonial-carousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+      </a>
+    </div>
+
+    <h1 class="regard">Regards, ur C7 Chatty Comapanion</h1>
+    <h1 class="regard2">Faros 'n Izza</h1>
+
+  </section>
+
+</body>
+
+</html>
